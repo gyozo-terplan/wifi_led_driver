@@ -71,6 +71,7 @@ The final device should look like this:
 - Connect the CP2102 USB-TTL device to the computer via USB
 - Connect the CP2102 USB-TTL device to the board, wiring diagram:
 
+```
 +----------------+               +----------------+
 |                |               |                |
 |             GND+---------------+GND             |
@@ -84,6 +85,7 @@ The final device should look like this:
 |             RTS+---------------+RTS             |
 |                |               |                |
 +----------------+               +----------------+
+```
 
 - Upload the firmware with Arduino IDE
 
@@ -120,7 +122,7 @@ The final device should look like this:
 
 ## Copyright
 
-See [LICENSE](https://github.com/as-ideas/TransformerTTS/blob/master/LICENSE) for details.
+See [LICENSE](https://github.com/gyozo-terplan/wifi_led_driver/blob/master/LICENSE) for details.
 
 ## Credits
 
