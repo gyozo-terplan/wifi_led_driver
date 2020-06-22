@@ -33,7 +33,7 @@ ESP8266 based WiFi LED driver is a high capacity led driver, which can be operat
 - IRLB8743PBF transistor
 - DC-005-5A-3.0 socket
 
-Detailed parts list in the pcb folder BOM file.
+Detailed parts list is in the pcb folder BOM file.
 
 ## Accessories needed
 
@@ -51,7 +51,7 @@ Detailed parts list in the pcb folder BOM file.
 
 
 The final device should look like this:
-
+![Hardware](hardware.jpg)
 
 
 # Firmware
